@@ -12,3 +12,7 @@ void input(){
     cout << "Masukan Lebar = ";
     cin >> l;
 }
+
+int luasPersegi (){
+    return p * l;
+}
